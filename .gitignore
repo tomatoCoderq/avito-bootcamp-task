@@ -1,0 +1,8 @@
+*.zip
+Test (1)/
+__pycache__/
+.DS_Store
+*.pt
+*.onnx
+work*/
+.ipynb_checkpoints/
